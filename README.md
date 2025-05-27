@@ -1,5 +1,5 @@
 # myNewProjects
-C++11 Project (wINDOWS)
+C++11 Project (WINDOWS)
 
 
                                             SMALL QUANTITIES CALCULATOR                 
