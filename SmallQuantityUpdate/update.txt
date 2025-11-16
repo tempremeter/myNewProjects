@@ -1,0 +1,8 @@
+                            UPDATE OF SMALL QUANTITY CALCULATOR
+                                           by
+                                    George A Butler
+
+This is a recent update of the SmallQty file.
+
+The Help files have been updated and the concrete block wall now includes a brickforce component.
+
