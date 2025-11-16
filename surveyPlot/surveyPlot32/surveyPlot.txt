@@ -1,0 +1,21 @@
+                                           SYRVEYPLOT
+                                           Created by
+                                         George A Butler
+
+ This product (compiled with C++11, utilizing DEVC++ on MS-Windows 10) is intended for Surveyors, Engineers, Architects, Planners and and Draugthsmem or any other
+ person engaged in the preparation of Site plans. It can be utilized to reproduce a Survey plan from the 
+ information provided on a legal Survey plan.
+
+ The data is verified by typing the information into a text file. The informatoion is later read into the
+ programme and converted to a dxf file for opening in a CAD based program which displays the drawing of 
+ the surveyed property. It is a free distribution.
+
+ Your comments on the product will be greatly appreciated.
+
+
+
+
+
+ 
+
+		 
