@@ -4,5 +4,6 @@
 
 This is a recent update of the SmallQty file.
 
-The Help files have been updated and the concrete block wall now includes a brickforce component.
+The programme is now fully functional it  no longer crashes after File is saved.
+
 
