@@ -1,0 +1,11 @@
+                            UPDATE OF SMALL QUANTITY CALCULATOR
+                                           by
+                                    George A Butler
+
+This is a recent update of the SmallQty file.
+
+The programme is now fully functional it  no longer crashes after File is saved.
+
+Please ignore sq32 and sq64 folders, these files are outdated.
+
+
