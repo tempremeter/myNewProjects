@@ -2,10 +2,14 @@
                                            by
                                     George A Butler
 
-This is a recent update of the SmallQty file.
+This is a recent update of the SmallQty file now named SmallQty_W(Windows Version) because of the new addition SmallQty_L(Linux version). The files can be renamed SmallQty for convenience on the applicable operating system.
 
 The programme is now fully functional it  no longer crashes after File is saved.
 
 Please ignore sq32 and sq64 folders, these files are outdated.
+
+in addition the Linux version of surveyPlot is now available as surveyPlot_L, the Windows version has not been updated. Again here the file can be renamed surveyPlot for convenience on the on the applicable operating system.
+
+The hope is that users find it useful.
 
 
